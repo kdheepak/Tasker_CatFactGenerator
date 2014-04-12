@@ -20,3 +20,7 @@ Install Tasker.
 Download the XML file from above and import into Tasker
 
 Cat Fact will be copied into clipboard on execution of the task
+
+#Screenshot
+
+![Whatsapp Screenshot](http://i.imgur.com/6BzYc4d.jpg)
