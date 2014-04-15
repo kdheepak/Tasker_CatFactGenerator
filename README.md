@@ -21,6 +21,13 @@ Download the XML file from above and import into Tasker
 
 Cat Fact will be copied into clipboard on execution of the task
 
+Screenshots have been attached below if you want to recreate the task.
+
+![Screenshot](https://raw.github.com/kdheepak89/Tasker_CatFactGenerator/master/Screenshots/CatFactParser_Task.png "Screenshot1")
+
+![Screenshot](https://raw.github.com/kdheepak89/Tasker_CatFactGenerator/master/Screenshots/RESTask.png "Screenshot2")
+
+
 #Screenshot
 
 ![Whatsapp Screenshot](http://i.imgur.com/6BzYc4d.jpg)
